@@ -3,27 +3,39 @@
 Study some basic syntax in Java Programming.
 
 # Table Content
-[1. Introduction](#introduction)
-[2. Comment](#comment)
-[3. Source File Name](#source-file-name)
-[4. Case Sensitivity](#case-sensitivity)
-[5. Class Name](#class-name)
-[6. Main Function](#main-function)
-[7. Method Names](#method-names)
-[8. Identifiers in Java](#identifiers-in-java)
-[9. White spaces in Java](#white-space-in-java)
-[10. Access Modifiers](#access-modifiers)
-[11. Understanding Access Modifiers](#understanding-access-modifiers)
+- [Introduction](#introduction)
+- [Comment](#comment)
+- [Source File Name](#source-file-name)
+- [Case Sensitivity](#case-sensitivity)
+- [Class Name](#class-name)
+- [Main Function](#main-function)
+- [Method Names](#method-names)
+- [Identifiers in Java](#identifiers-in-java)
+- [White spaces in Java](#white-space-in-java)
+- [Access Modifiers](#access-modifiers)
+- [Understanding Access Modifiers](#understanding-access-modifiers)
 
+<a id="introduction"></a>
 ## Introduction 
 Study about basic syntax of Java such as comment, case sentivity, class name, main function, etc...
 Prepare the basics for coding with Java Programming Languages.
+<a id="comment"></a>
 ## Comment
+<a id="source-file-name"></a>
+## Source File Name
+<a id="case-sentivity"></a>
 ## Case Sentivity
+<a id="class-name"></a>
 ## Class Name 
+<a id="main-function"></a>
 ## Main Function
+<a id="method-names"></a>
 ## Method Names
+<a id=identifiers-in-java"></a>
 ## Identifiers in Java
+<a id="white-spaces-in-java"></a>
 ## White spaces in Java
+<a id="access0modifiers"></a>
 ## Access Modifiers
+<a id="understanding-access-modifiers"></a>
 ## Understanding Access Modifiers
