@@ -1,7 +1,29 @@
 # Basic Syntax
 ## Description
-Understanding the basics is the key to a solid foundation. In this section, learn the basic terminologies, naming conventions, reserved words, conditions, functions, data structures, OOP, packages, etc.
+Study some basic syntax in Java Programming.
 
-- To print output use —> System.out.println();
-- To take input from user —> Scanner or BufferedReader class can be used
+# Table Content
+[1. Introduction](#introduction)
+[2. Comment](#comment)
+[3. Source File Name](#source-file-name)
+[4. Case Sensitivity](#case-sensitivity)
+[5. Class Name](#class-name)
+[6. Main Function](#main-function)
+[7. Method Names](#method-names)
+[8. Identifiers in Java](#identifiers-in-java)
+[9. White spaces in Java](#white-space-in-java)
+[10. Access Modifiers](#access-modifiers)
+[11. Understanding Access Modifiers](#understanding-access-modifiers)
 
+## Introduction 
+Study about basic syntax of Java such as comment, case sentivity, class name, main function, etc...
+Prepare the basics for coding with Java Programming Languages.
+## Comment
+## Case Sentivity
+## Class Name 
+## Main Function
+## Method Names
+## Identifiers in Java
+## White spaces in Java
+## Access Modifiers
+## Understanding Access Modifiers
